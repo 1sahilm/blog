@@ -1,5 +1,5 @@
 import css from "../components/button.module.css";
-const Button = (props) => {
+const Button = (props: any) => {
   return (
     <>
       <div className={css.button}>
