@@ -1,0 +1,10 @@
+.button {
+  width: fit-content;
+}
+.button button {
+  padding: 10px 30px;
+  background-color: #ff4669;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
